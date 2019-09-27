@@ -9,6 +9,11 @@
             "UnauthRoleName": "amplify-notetaker-test-20190926231302-unauthRole",
             "StackName": "amplify-notetaker-test-20190926231302",
             "StackId": "arn:aws:cloudformation:ap-northeast-2:990753205287:stack/amplify-notetaker-test-20190926231302/c092a4c0-e067-11e9-ac82-02519e15df86"
+        },
+        "categories": {
+            "auth": {
+                "amplifynotetakerf49043c2": {}
+            }
         }
     }
 }
